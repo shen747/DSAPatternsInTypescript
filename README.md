@@ -118,23 +118,23 @@ npm test -- 12-algo-patterns/02-TwoPointers/prob-03/prob-03.test.ts
 
 ### Core Patterns (12-algo-patterns/) - 15 Patterns, 30 Problems
 
-| Pattern | Problems | Difficulty | Key Concepts |
-|---------|----------|------------|--------------|
-| **Prefix Sum** | 2 | Easy-Medium | Cumulative sums, subarray problems |
-| **Two Pointers** | 3 | Medium-Hard | Opposite/same direction, subsequence matching |
-| **Sliding Window** | 2 | Easy-Hard | Window expansion/contraction, substring problems |
-| **Fast & Slow Pointers** | 2 | Medium | Cycle detection, middle element finding |
-| **Linked List In-Place Reversal** | 2 | Medium | LinkedList reversal, sublist manipulation |
-| **Monotonic Stack** | 2 | Medium-Hard | Stack-based optimization, next greater element |
-| **Top K Elements** | 2 | Medium-Hard | Heap-based solutions, frequency problems |
-| **Overlapping Intervals** | 2 | Medium-Hard | Interval merging, overlap detection |
-| **Modified Binary Search** | 2 | Medium-Hard | Rotated arrays, peak finding |
-| **Binary Tree Traversal** | 2 | Easy-Medium | Level-order traversal, tree width problems |
-| **Depth First Search** | 2 | Medium | Graph DFS, path finding |
-| **Breadth First Search** | 2 | Medium | Graph BFS, shortest path |
-| **Matrix Traversal** | 2 | Medium | 2D array problems, island counting |
-| **Backtracking** | 2 | Medium-Hard | Permutations, combinations, constraint satisfaction |
-| **Dynamic Programming** | 2 | Hard | Memoization, optimal substructure |
+| Pattern | Problems | Difficulty | Key Concepts | Video Tutorial |
+|---------|----------|------------|--------------|----------------|
+| **Prefix Sum** | 2 | Easy-Medium | Cumulative sums, subarray problems | [📺 Theory](https://www.youtube.com/watch?v=yuws7YK0Yng) |
+| **Two Pointers** | 3 | Medium-Hard | Opposite/same direction, subsequence matching | [📺 Theory](https://www.youtube.com/watch?v=QzZ7nmouLTI) |
+| **Sliding Window** | 2 | Easy-Hard | Window expansion/contraction, substring problems | [📺 Theory](https://www.youtube.com/watch?v=y2d0VHdvfdc) |
+| **Fast & Slow Pointers** | 2 | Medium | Cycle detection, middle element finding | [📺 Theory](https://www.youtube.com/watch?v=b139yf7Ik-E) |
+| **Linked List In-Place Reversal** | 2 | Medium | LinkedList reversal, sublist manipulation | [📺 Theory](https://www.youtube.com/watch?v=auoTGovuo9A) |
+| **Monotonic Stack** | 2 | Medium-Hard | Stack-based optimization, next greater element | [📺 Theory](https://www.youtube.com/watch?v=DtJVwbbicjQ) |
+| **Top K Elements** | 2 | Medium-Hard | Heap-based solutions, frequency problems | [📺 Theory](https://www.youtube.com/watch?v=6_v6OoxvMOE) |
+| **Overlapping Intervals** | 2 | Medium-Hard | Interval merging, overlap detection | [📺 Theory](https://www.youtube.com/watch?v=T5t73Fsv1-s) |
+| **Modified Binary Search** | 2 | Medium-Hard | Rotated arrays, peak finding | [📺 Theory](https://www.youtube.com/watch?v=1rtEtULACgs) |
+| **Binary Tree Traversal** | 2 | Easy-Medium | Level-order traversal, tree width problems | [📺 Theory](https://www.youtube.com/watch?v=b_NjndniOqY) |
+| **Depth First Search** | 2 | Medium | Graph DFS, path finding | [📺 Theory](https://www.youtube.com/watch?v=pcKY4hjDrxk) |
+| **Breadth First Search** | 2 | Medium | Graph BFS, shortest path | [📺 Theory](https://www.youtube.com/watch?v=oDqjPvD54Ss) |
+| **Matrix Traversal** | 2 | Medium | 2D array problems, island counting | [📺 Theory](https://www.youtube.com/watch?v=BJnMZNwUk1M) • [📺 Advanced](https://www.youtube.com/watch?v=OhAhyqdwWMM) |
+| **Backtracking** | 2 | Medium-Hard | Permutations, combinations, constraint satisfaction | [📺 Theory](https://www.youtube.com/watch?v=DKCbsiDBN6c&t=1s) |
+| **Dynamic Programming** | 2 | Hard | Memoization, optimal substructure | [📺 Theory](https://www.youtube.com/watch?v=5dRGRueKU3M&t=339s) |
 
 ### Classic Categories (01-11/)
 - **Arrays & Strings**: Two Sum, string manipulation
